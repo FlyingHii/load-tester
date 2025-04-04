@@ -1,0 +1,15 @@
+node_modules
+.aider*
+.idea
+*.log
+*.env
+.DS_Store
+/tmp
+/dist
+/build
+/out
+coverage
+*.swp
+*~
+.#*
+pnpm-lock.yaml

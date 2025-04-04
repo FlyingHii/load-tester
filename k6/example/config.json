@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://www.example.com",
+  "vus": 10,
+  "duration": "5s"
+}
